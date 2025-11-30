@@ -15,7 +15,7 @@ A bridge plugin for Final Fantasy XIV that orchestrates character rotation and q
 
 1. Open XIVLauncher/Dalamud
 2. Go to **Settings** → **Experimental**
-3. Add the plugin repository URL (https://raw.githubusercontent.com/MacaronDream/Questionable-Companion/master/pluginmaster.json) or install via DevPlugins
+3. Add the plugin repository URL (https://github.com/WigglyMuffin/DalamudPlugins/raw/main/pluginmaster.json) or install via DevPlugins
 4. Search for "Questionable Companion" in the Plugin Installer and install
 
 ## Dependencies
